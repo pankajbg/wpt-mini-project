@@ -1,0 +1,51 @@
+#h2feat{
+    text-align: center;
+    margin: 2vh;
+    font-family: cursive;
+    font-size: 5vh;
+}
+
+.cardPara{
+    text-align: justify;
+}
+
+.imgCard{
+    height: 25vh;
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    
+}
+.card:hover{
+    transform: scale(1.03);
+
+}
+.card{
+    transition:all 0.7s;
+}
+.page{
+    color: white;
+    text-align: center;
+    font-size: medium;
+    margin: 0%;
+}
+.follow{
+    width: 5vw;
+    height: 5vh;
+    margin-right: 1vh;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+.rights{
+    text-align: end;
+    padding-right: 2vh;
+    margin-top: 1vh;
+}

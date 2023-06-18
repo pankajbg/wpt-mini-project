@@ -1,0 +1,35 @@
+#texh2{
+    display: flex;
+    justify-content: center;
+    font-size: 6vh;
+}
+
+.btndiv{
+    display: flex;
+    justify-content: center;
+}
+
+#h6hed{
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    color: red;
+    text-align: justify;
+}
+
+.page{
+    color: white;
+    text-align: center;
+    font-size: medium;
+    margin: 0%;
+}
+
+.follow{
+    width: 5vw;
+    height: 5vh;
+    margin-right: 1vh;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }

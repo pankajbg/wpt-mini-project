@@ -1,0 +1,24 @@
+.nav1{
+    background-color: #000000;
+}
+.h11{
+    color: coral;
+}
+.btn1{
+    color: aliceblue;
+}
+.spanbg{
+    
+    background-color: coral;
+}
+.a1{
+    color: aliceblue; 
+    font-weight: lighter; 
+    font-size: large;
+}
+.a2{
+    color: aliceblue;
+    font-weight: lighter;
+    font-size: large;
+    cursor: pointer;
+}

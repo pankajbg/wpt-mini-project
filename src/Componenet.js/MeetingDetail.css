@@ -1,0 +1,44 @@
+
+.btndiv{
+    display: flex;
+    justify-content: center;
+}
+
+#img{
+    width: 100%;
+    height: 40vh;
+}
+
+.divsabha{
+    border: 2px solid white;
+    border-radius: 3vh;
+}
+
+#h3sabha{
+    text-align: center;
+}
+
+#pinfo{
+    text-align: center;
+}
+
+.page{
+    color: white;
+    text-align: center;
+    font-size: medium;
+    margin: 0%;
+}
+
+.follow{
+    width: 5vw;
+    height: 5vh;
+    margin-right: 1vh;
+}
+
+.agendPara{
+    text-align: justify;
+}
+.editBtn{
+    display: flex;
+    justify-content: end;
+}
